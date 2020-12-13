@@ -1,0 +1,17 @@
+Partlist exported from C:/Users/Hp/Documents/eagle/AirCube/AirCube_V3/untitled.sch at 06/05/2019 11:09
+
+Part         Value                        Device                       Package             Description                          PROD_ID     VALUE   
+2N3904-SOT23 MMBT5088                     TRANSISTOR_NPNMMBT5088       SOT23-3             Generic NPN BJT                      TRANS-11160 MMBT5088
+5-3.3V       LM1117                       LM1117                       SOT223                                                                       
+C1           10uF                         10UF-TANT                    EIA3216             10uF Tantalum SMT                    CAP-00811   10uF    
+C4           10uF                         10UF-TANT                    EIA3216             10uF Tantalum SMT                    CAP-00811   10uF    
+HLK1         HLK-PM013W                   HLK-PM013W                   HLK-PM01            Hi-Link Power Supply                                     
+L/N          CON_TERMINAL_BLOCK_02-5MM    CON_TERMINAL_BLOCK_02-5MM    TERMINAL_BLOCK_2P_5 2 poles wire to board terminal block                     
+LAMBA        CON_TERMINAL_BLOCK_02-5MM    CON_TERMINAL_BLOCK_02-5MM    TERMINAL_BLOCK_2P_5 2 poles wire to board terminal block                     
+PROG                                      MA05-1                       MA05-1              PIN HEADER                                               
+R1           1.2K 0805                    R-US_R0805                   R0805               RESISTOR, American symbol                                
+R2           10K 805 0.25W                R-US_R0805                   R0805               RESISTOR, American symbol                                
+SOD128       PMEG4050                     PMEG4050                     SOD128              NXP PMEG4050 Schottky diode                              
+SW           CON_TERMINAL_BLOCK_02-5MM    CON_TERMINAL_BLOCK_02-5MM    TERMINAL_BLOCK_2P_5 2 poles wire to board terminal block                     
+U$2          SRD-0XVDC-SL-CSRD-05VDC-SL-C SRD-0XVDC-SL-CSRD-05VDC-SL-C SRD-0XVDC-SL-C      SRD-05VDC-SL-C                                           
+WIFI         ESP07                        ESP07                        ESP07               ESP8266 Wifi module 07 & 08                              
